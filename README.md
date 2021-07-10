@@ -1,0 +1,2 @@
+# authpublic
+Autenticação de SCRIPTS.
